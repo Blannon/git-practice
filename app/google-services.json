@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490835947104",
+    "project_id": "gate-44411",
+    "storage_bucket": "gate-44411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490835947104:android:28ea90f0be7e576926dd05",
+        "android_client_info": {
+          "package_name": "com.example.gate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490835947104-n43oafnhnk80rkq3qlva3drat7jp9c59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gate",
+            "certificate_hash": "85e1aff73a9248ccffd9d612f977c8e0e9d67a80"
+          }
+        },
+        {
+          "client_id": "490835947104-qsll0i9beomadnorshufpdmg0u3pkf6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfjGi-o2Ndb_MgHEydorE3dKOLYa8DkDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490835947104-qsll0i9beomadnorshufpdmg0u3pkf6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
